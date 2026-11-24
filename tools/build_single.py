@@ -7,7 +7,7 @@ style = re.search(r'<style>.*?</style>', html, re.S).group(0)
 body = re.search(r'<body>(.*)</body>', html, re.S).group(1)
 font = base64.b64encode((root / 'assets' / 'fonts' / 'nunito.woff2').read_bytes()).decode()
 style = style.replace('url("assets/fonts/nunito.woff2")', f'url("data:font/woff2;base64,{font}")')
-for name in ('verbs.js', 'words.js', 'app.js'):
+for name in ('verbs.js', 'words.js', 'sound.js', 'app.js'):
     js = (root / name).read_text(encoding='utf-8')
     body = body.replace(f'<script src="{name}"></script>', f'<script>\n{js}\n</script>')
 for name in ('parrot', 'raven', 'canary'):

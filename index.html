@@ -109,6 +109,10 @@ header.top {
 .brand img { width: 34px; height: 41px; object-fit: contain; }
 .brand .w { color: var(--wort); }
 .brand .p { color: var(--terracotta); }
+.soundbtn { width: 44px; height: 44px; flex: none; display: grid; place-items: center; border: 0; border-radius: 12px; background: transparent; color: var(--ink-soft); cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.soundbtn .ic { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.soundbtn[aria-pressed="false"] { opacity: .6; }
+.soundbtn:active { background: var(--chip); }
 
 main {
   flex: 1; display: flex; flex-direction: column; gap: 18px;
@@ -496,6 +500,7 @@ body.short #actions.rate .btn { min-height: 50px; }
 <div class="app">
   <header class="top">
     <h1 class="brand"><img src="assets/parrot.webp" alt=""><span><span class="w">Wort</span><span class="p">Papagei</span></span></h1>
+    <button class="soundbtn" id="soundBtn" type="button" aria-pressed="true" aria-label="Geluid uitzetten"></button>
   </header>
   <main id="view"></main>
 </div>
@@ -517,6 +522,7 @@ body.short #actions.rate .btn { min-height: 50px; }
 </nav>
 <script src="verbs.js"></script>
 <script src="words.js"></script>
+<script src="sound.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

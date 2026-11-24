@@ -432,6 +432,7 @@
     if (d.streak >= 3) return 'Du bist on fire!';
     return pick(ASK);
   }
+  const sfx = name => { try { window.WortPapageiSound && window.WortPapageiSound.play(name); } catch (e) { /* geen geluid */ } };
   function coach(state, text) {
     const c = $('#coach'); if (!c) return;
     if (!c.classList.contains(state) || state !== 'think') {
@@ -583,6 +584,7 @@
       $('#gsay').textContent = g.text;
       $('#gname').textContent = g.tip || '';
       el.className = 'guest ' + g.kind + (animate ? ' enter' : '');
+      if (animate) sfx(g.kind);
       c.classList.add('has-guest');
     };
     clearTimeout(d && d.guestT);
@@ -745,6 +747,7 @@
     // Bewaar de stand van vóór dit antwoord, zodat "Toch goed" alles terug kan draaien.
     d.undo = { streak: d.streak || 0, mistakes: store.mistakes[mistakeKey(q)], lastCanary: d.lastCanary, guest: d.guest };
     d.streak = correct ? (d.streak || 0) + 1 : 0;
+    sfx(!correct ? 'bad' : d.streak >= 3 && d.streak % 2 ? 'streak' : 'ok');
     if (correct) coach('happy', d.streak >= 3 ? `${d.streak} richtig hintereinander!` : pick(HAPPY));
     else coach('sad', pick(SAD));
     sideCharacters(d, q, correct);
@@ -827,6 +830,7 @@
       saveStore();
     }
     const wrong = d.results.filter(r => !r.correct);
+    if (total) sfx(newBest ? 'record' : 'finish');
     const g = grade(d.ok, total);
     const head = d.mode === 'klok'
       ? `<div class="score"><div><div class="grade">${d.ok}</div><div class="grade-sub">goed in 60 seconden</div></div>
@@ -1219,6 +1223,7 @@
   function flip() {
     if (!study || study.shown || Date.now() < study.readyAt) return;
     study.shown = true;
+    sfx('flip');
     renderStudy();
     coach('think', 'Und, wusstest du es?');
   }
@@ -1234,6 +1239,7 @@
     if (r === 1) st.again++;
     if (next.s !== 'review') st.learn.push(c);
     st.readyAt = Infinity;
+    sfx(r === 1 ? 'bad' : r === 2 ? 'tap' : r === 4 ? 'streak' : 'ok');
     coach(r === 1 ? 'sad' : r === 2 ? 'think' : 'happy', r === 1 ? 'Die kommt gleich wieder!' : r === 2 ? 'Fast!' : r === 4 ? 'Kinderspiel!' : pick(HAPPY));
     setTimeout(() => { if (study === st) nextStudy(); }, r === 1 ? 650 : 450);
   }
@@ -1245,6 +1251,7 @@
     const waiting = st.learn.filter(c => srs.cards[c.key] && srs.cards[c.key].due > now);
     const soon = waiting.length ? Math.min(...waiting.map(c => srs.cards[c.key].due)) : 0;
     const left = deckStats(st.id);
+    if (st.done) sfx('finish');
     const praise = !st.done ? 'Bis bald!' : st.again / st.done < 0.2 ? 'Sehr gut!' : 'Gut gemacht!';
     view.innerHTML = `
       <div class="hero"><img src="assets/parrot.webp" alt="Papegaai van gevouwen papier"><div class="bubble">${praise}<small>${esc(deckName(st.id))}</small></div></div>
