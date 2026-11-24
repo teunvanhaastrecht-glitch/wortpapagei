@@ -1,0 +1,330 @@
+Hallo!|Hallo!
+Guten Morgen!|Goedemorgen!
+Guten Tag!|Goedendag!
+Guten Abend!|Goedenavond!
+Gute Nacht!|Welterusten!
+Tschüss!|Doei!
+Auf Wiedersehen!|Tot ziens!
+Wie geht's?|Hoe gaat het?
+Danke!|Dank je!
+Bitte!|Alsjeblieft!, Graag gedaan!
+Entschuldigung!|Sorry!, Pardon!
+Wie heißt du?|Hoe heet je?
+Ich heiße …|Ik heet …
+Woher kommst du?|Waar kom je vandaan?
+ja|ja
+nein|nee
+die Familie, -n|het gezin, de familie
+die Mutter, -¨|de moeder
+der Vater, -¨|de vader
+die Eltern|de ouders
+das Kind, -er|het kind
+der Sohn, -¨e|de zoon
+die Tochter, -¨|de dochter
+der Bruder, -¨|de broer
+die Schwester, -n|de zus
+die Geschwister|de broers en zussen
+die Oma, -s|de oma
+der Opa, -s|de opa
+der Mann, -¨er|de man
+die Frau, -en|de vrouw, mevrouw
+das Baby, -s|de baby
+der Freund, -e|de vriend
+die Freundin, -nen|de vriendin
+der Name, -n|de naam
+der Vorname, -n|de voornaam
+das Alter|de leeftijd
+die Adresse, -n|het adres
+die Straße, -n|de straat
+die Stadt, -¨e|de stad
+das Land, -¨er|het land
+die Telefonnummer, -n|het telefoonnummer
+das Handy, -s|de mobiele telefoon
+das Essen|het eten
+das Brot, -e|het brood
+das Brötchen, -|het broodje
+die Butter|de boter
+der Käse|de kaas
+die Wurst, -¨e|de worst
+das Ei, -er|het ei
+der Apfel, -¨|de appel
+die Banane, -n|de banaan
+die Kartoffel, -n|de aardappel
+das Gemüse|de groente
+das Obst|het fruit
+das Fleisch|het vlees
+der Fisch, -e|de vis
+der Reis|de rijst
+die Nudel, -n|de noedel, de pasta
+die Suppe, -n|de soep
+der Salat, -e|de salade, de sla
+der Kuchen, -|de taart, de cake
+das Wasser|het water
+die Milch|de melk
+der Kaffee|de koffie
+der Tee|de thee
+der Saft, -¨e|het sap
+das Bier, -e|het bier
+der Wein, -e|de wijn
+das Frühstück|het ontbijt
+das Mittagessen|de lunch, het middageten
+das Abendessen|het avondeten
+der Hunger|de honger
+der Durst|de dorst
+essen|eten
+trinken|drinken
+kochen|koken
+kaufen|kopen
+bezahlen|betalen
+kosten|kosten
+der Euro, -s|de euro
+das Geld|het geld
+der Preis, -e|de prijs
+billig|goedkoop
+teuer|duur
+der Supermarkt, -¨e|de supermarkt
+das Geschäft, -e|de winkel, de zaak
+die Bäckerei, -en|de bakkerij
+das Restaurant, -s|het restaurant
+das Café, -s|het café
+die Rechnung, -en|de rekening
+das Haus, -¨er|het huis
+die Wohnung, -en|het appartement, de woning
+das Zimmer, -|de kamer
+die Küche, -n|de keuken
+das Bad, -¨er|de badkamer, het bad
+das Schlafzimmer, -|de slaapkamer
+das Wohnzimmer, -|de woonkamer
+der Garten, -¨|de tuin
+die Tür, -en|de deur
+das Fenster, -|het raam
+der Tisch, -e|de tafel
+der Stuhl, -¨e|de stoel
+das Bett, -en|het bed
+der Schrank, -¨e|de kast
+die Lampe, -n|de lamp
+die Toilette, -n|de wc, het toilet
+der Schlüssel, -|de sleutel
+wohnen|wonen
+schlafen|slapen
+die Zeit, -en|de tijd
+die Uhr, -en|de klok, het horloge
+die Stunde, -n|het uur
+die Minute, -n|de minuut
+der Tag, -e|de dag
+die Woche, -n|de week
+der Monat, -e|de maand
+das Jahr, -e|het jaar
+der Morgen, -|de ochtend
+der Vormittag, -e|de ochtend, de voormiddag
+der Mittag, -e|de middag (rond 12 uur)
+der Nachmittag, -e|de middag
+der Abend, -e|de avond
+die Nacht, -¨e|de nacht
+heute|vandaag
+morgen|morgen
+gestern|gisteren
+jetzt|nu
+später|later
+bald|binnenkort, gauw
+immer|altijd
+oft|vaak
+manchmal|soms
+nie|nooit
+der Montag|de maandag
+der Dienstag|de dinsdag
+der Mittwoch|de woensdag
+der Donnerstag|de donderdag
+der Freitag|de vrijdag
+der Samstag|de zaterdag
+der Sonntag|de zondag
+das Wochenende, -n|het weekend
+der Januar|januari
+der Sommer, -|de zomer
+der Winter, -|de winter
+der Frühling, -e|de lente
+der Herbst, -e|de herfst
+der Geburtstag, -e|de verjaardag
+der Termin, -e|de afspraak
+das Wetter|het weer
+die Sonne|de zon
+der Regen|de regen
+der Schnee|de sneeuw
+der Wind, -e|de wind
+warm|warm
+kalt|koud
+heiß|heet
+regnen|regenen
+die Reise, -n|de reis
+der Bahnhof, -¨e|het station
+der Zug, -¨e|de trein
+der Bus, -se|de bus
+das Auto, -s|de auto
+das Fahrrad, -¨er|de fiets
+das Flugzeug, -e|het vliegtuig
+der Flughafen, -¨|het vliegveld
+die Fahrkarte, -n|het kaartje, het vervoersbewijs
+das Ticket, -s|het ticket, het kaartje
+die Haltestelle, -n|de halte
+das Hotel, -s|het hotel
+der Urlaub, -e|de vakantie
+der Koffer, -|de koffer
+fahren|rijden, varen
+fliegen|vliegen
+gehen|gaan, lopen
+kommen|komen
+ankommen|aankomen
+abfahren|vertrekken
+links|links
+rechts|rechts
+geradeaus|rechtdoor
+hier|hier
+dort|daar
+die Arbeit, -en|het werk
+arbeiten|werken
+der Beruf, -e|het beroep
+die Firma, Firmen|het bedrijf, de firma
+das Büro, -s|het kantoor
+der Lehrer, -|de leraar
+die Lehrerin, -nen|de lerares
+der Arzt, -¨e|de arts, de dokter
+der Kollege, -n|de collega
+der Chef, -s|de baas, de chef
+die Schule, -n|de school
+der Schüler, -|de leerling
+die Klasse, -n|de klas
+das Buch, -¨er|het boek
+das Heft, -e|het schrift
+der Kugelschreiber, -|de balpen
+der Bleistift, -e|het potlood
+das Papier, -e|het papier
+die Frage, -n|de vraag
+die Antwort, -en|het antwoord
+das Wort, -¨er|het woord
+lernen|leren, studeren
+lesen|lezen
+schreiben|schrijven
+hören|horen, luisteren
+sprechen|spreken
+fragen|vragen
+antworten|antwoorden
+verstehen|begrijpen, verstaan
+wiederholen|herhalen
+der Körper, -|het lichaam
+der Kopf, -¨e|het hoofd
+das Auge, -n|het oog
+das Ohr, -en|het oor
+die Nase, -n|de neus
+der Mund, -¨er|de mond
+der Zahn, -¨e|de tand
+die Hand, -¨e|de hand
+der Arm, -e|de arm
+das Bein, -e|het been
+der Fuß, -¨e|de voet
+der Bauch, -¨e|de buik
+krank|ziek
+gesund|gezond
+die Kleidung|de kleding
+die Hose, -n|de broek
+das Hemd, -en|het overhemd
+das T-Shirt, -s|het T-shirt
+der Pullover, -|de trui
+die Jacke, -n|de jas, het jack
+der Rock, -¨e|de rok
+das Kleid, -er|de jurk
+der Schuh, -e|de schoen
+tragen|dragen
+die Farbe, -n|de kleur
+rot|rood
+blau|blauw
+grün|groen
+gelb|geel
+schwarz|zwart
+weiß|wit
+die Freizeit|de vrije tijd
+das Hobby, -s|de hobby
+der Sport|de sport
+der Fußball, -¨e|het voetbal
+spielen|spelen
+schwimmen|zwemmen
+tanzen|dansen
+singen|zingen
+die Musik|de muziek
+der Film, -e|de film
+das Kino, -s|de bioscoop
+das Spiel, -e|het spel, de wedstrijd
+der Hund, -e|de hond
+die Katze, -n|de kat
+gern|graag
+lieben|houden van
+mögen|lusten, leuk vinden
+froh|blij
+glücklich|gelukkig
+traurig|verdrietig
+müde|moe
+gut|goed
+schlecht|slecht
+schön|mooi
+groß|groot
+klein|klein
+neu|nieuw
+alt|oud
+jung|jong
+lang|lang
+kurz|kort
+viel|veel
+wenig|weinig
+schnell|snel
+langsam|langzaam
+richtig|juist, goed
+falsch|fout
+leicht|makkelijk, licht
+schwer|moeilijk, zwaar
+sein|zijn
+haben|hebben
+werden|worden
+machen|maken, doen
+sagen|zeggen
+sehen|zien
+finden|vinden
+suchen|zoeken
+geben|geven
+nehmen|nemen
+brauchen|nodig hebben
+helfen|helpen
+öffnen|openen
+können|kunnen
+müssen|moeten
+wollen|willen
+möchten|zouden willen, graag willen
+heißen|heten
+anrufen|opbellen
+aufstehen|opstaan
+einkaufen|boodschappen doen
+und|en
+oder|of
+aber|maar
+nicht|niet
+auch|ook
+sehr|heel, erg
+noch|nog
+schon|al
+in|in
+mit|met
+ohne|zonder
+für|voor
+von|van
+nach|naar, na
+bei|bij
+zu|naar, te
+wer|wie
+was|wat
+wo|waar
+wann|wanneer
+warum|waarom
+wie|hoe
+wie viel|hoeveel
+eins|een
+zwei|twee
+zehn|tien
+hundert|honderd

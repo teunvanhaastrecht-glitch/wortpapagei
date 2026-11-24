@@ -1,0 +1,268 @@
+die Wahlbeteiligung|de opkomst (bij verkiezingen)
+die Gesetzgebung|de wetgeving
+der Abgeordnete, -n|het parlementslid, de afgevaardigde
+der Ausschuss, -¨e|de commissie
+der Haushalt, -e|de begroting, het huishouden
+die Verfassung, -en|de grondwet, de toestand
+die Verwaltung, -en|het bestuur, de administratie
+die Abstimmung, -en|de stemming
+abstimmen über|stemmen over
+die Minderheit, -en|de minderheid
+die Maßnahme, -n|de maatregel
+die Einwanderung|de immigratie
+die Staatsangehörigkeit, -en|de nationaliteit
+die Forderung, -en|de eis, de vordering
+der Wahlkampf, -¨e|de verkiezingscampagne
+die Zustimmung, -en|de instemming, de goedkeuring
+die Ablehnung, -en|de afwijzing
+sich durchsetzen|zich doorzetten, de overhand krijgen
+der Einfluss, -¨e|de invloed
+beeinflussen|beïnvloeden
+die Bürgerinitiative, -n|het burgerinitiatief
+der Arbeitsmarkt, -¨e|de arbeidsmarkt
+der Umsatz, -¨e|de omzet
+der Wettbewerb, -e|de concurrentie, de wedstrijd
+das Unternehmen, -|de onderneming, het bedrijf
+die Nachfrage, -n|de vraag
+der Aufschwung, -¨e|de opleving
+der Zins, -en|de rente
+der Kredit, -e|het krediet, de lening
+die Schulden (Pl.)|de schulden
+die Gewerkschaft, -en|de vakbond
+der Streik, -s|de staking
+der Verbraucher, -|de consument
+die Lieferkette, -n|de toeleveringsketen
+der Standort, -e|de vestigingsplaats, de locatie
+die Fachkraft, -¨e|de geschoolde werknemer, de vakkracht
+der Fachkräftemangel|het tekort aan vakkrachten
+der Aktionär, -e|de aandeelhouder
+die Aktie, -n|het aandeel
+die Börse, -n|de beurs
+der Zuschuss, -¨e|de subsidie, de toelage
+die Förderung, -en|de bevordering, de subsidie
+fördern|bevorderen, ondersteunen
+die Rente, -n|het pensioen
+der Rentner, -|de gepensioneerde
+der Bedarf|de behoefte
+der Wohlstand|de welvaart
+die Forschung, -en|het onderzoek
+der Wissenschaftler, -|de wetenschapper
+die Erkenntnis, -se|het inzicht, de kennis
+die These, -n|de stelling
+der Versuch, -e|de poging, het experiment
+der Fortschritt, -e|de vooruitgang
+die Stichprobe, -n|de steekproef
+das Verfahren, -|de procedure, de methode
+die Auswirkung, -en|de uitwerking, het gevolg
+das Gericht, -e|de rechtbank, het gerecht
+der Anwalt, -¨e|de advocaat
+die Klage, -n|de aanklacht, de klacht
+verklagen|aanklagen, een proces aandoen
+der Angeklagte, -n|de verdachte, de beklaagde
+das Urteil, -e|het vonnis, het oordeel
+verurteilen|veroordelen
+die Haft|de hechtenis
+die Aussage, -n|de verklaring, de uitspraak
+die Verhandlung, -en|de onderhandeling, de zitting
+die Vorschrift, -en|het voorschrift
+gesetzlich|wettelijk
+rechtlich|juridisch
+der Verstoß, -¨e|de overtreding
+verstoßen gegen|overtreden, ingaan tegen
+haften für|aansprakelijk zijn voor
+die Haftung|de aansprakelijkheid
+der Schadenersatz|de schadevergoeding
+die Genehmigung, -en|de vergunning, de toestemming
+die Erderwärmung|de opwarming van de aarde
+der Treibhauseffekt|het broeikaseffect
+das Treibhausgas, -e|het broeikasgas
+der Ausstoß|de uitstoot
+die Energiewende|de energietransitie
+die Nachhaltigkeit|de duurzaamheid
+nachhaltig|duurzaam
+verschwenden|verspillen
+die Verschwendung|de verspilling
+der Rohstoff, -e|de grondstof
+das Aussterben|het uitsterven
+die Artenvielfalt|de biodiversiteit
+der Lebensraum, -¨e|de leefomgeving, de habitat
+die Dürre, -n|de droogte
+die Überschwemmung, -en|de overstroming
+die Abholzung|de ontbossing
+die Windkraft|de windenergie
+die Belastung, -en|de last, de druk
+die Aufführung, -en|de opvoering, de voorstelling
+die Inszenierung, -en|de enscenering, de regie
+der Schriftsteller, -|de schrijver
+die Erzählung, -en|het verhaal, de vertelling
+die Gattung, -en|het genre, de soort
+das Erbe|de erfenis, het erfgoed
+der Brauch, -¨e|de gewoonte, het gebruik
+die Überlieferung, -en|de overlevering
+die Vielfalt|de verscheidenheid, de diversiteit
+die Berichterstattung|de berichtgeving
+die Schlagzeile, -n|de krantenkop
+die Meinungsfreiheit|de vrijheid van meningsuiting
+die Pressefreiheit|de persvrijheid
+die Bildung|het onderwijs, de vorming
+das Bewusstsein|het bewustzijn
+das Selbstbewusstsein|het zelfvertrouwen
+selbstbewusst|zelfverzekerd
+das Verhalten|het gedrag
+sich verhalten|zich gedragen
+die Wahrnehmung, -en|de waarneming, de perceptie
+wahrnehmen|waarnemen
+die Einstellung, -en|de houding, de instelling
+das Vorurteil, -e|het vooroordeel
+die Belohnung, -en|de beloning
+die Überforderung|de overbelasting
+überfordert|overbelast, overvraagd
+gelassen|kalm, onverstoorbaar
+die Eifersucht|de jaloezie
+der Neid|de afgunst
+zuversichtlich|hoopvol, optimistisch
+die Fähigkeit, -en|het vermogen, de vaardigheid
+die Begabung, -en|het talent, de aanleg
+begabt|begaafd
+das Mitgefühl|het medeleven
+die Scham|de schaamte
+ehrgeizig|ambitieus, eerzuchtig
+verunsichern|onzeker maken
+die Unsicherheit, -en|de onzekerheid
+die Begründung, -en|de motivering, de onderbouwing
+begründen|motiveren, onderbouwen
+der Widerspruch, -¨e|de tegenspraak, het bezwaar
+überzeugend|overtuigend
+die Überzeugung, -en|de overtuiging
+der Standpunkt, -e|het standpunt
+die Ansicht, -en|de mening, de opvatting
+einräumen|toegeven, inruimen
+betonen|benadrukken
+hervorheben|benadrukken, doen uitkomen
+erwähnen|vermelden
+sich beziehen auf|verwijzen naar, betrekking hebben op
+hinsichtlich|met betrekking tot, wat betreft
+bezüglich|betreffende
+hingegen|daarentegen
+zudem|bovendien
+folglich|bijgevolg, dus
+infolgedessen|ten gevolge daarvan
+zwar ... aber|weliswaar ... maar
+sowohl ... als auch|zowel ... als
+weder ... noch|noch ... noch
+je ... desto|hoe ... hoe
+eindeutig|ondubbelzinnig, duidelijk
+vermutlich|vermoedelijk
+angeblich|zogenaamd, naar verluidt
+die Schlussfolgerung, -en|de conclusie
+abwägen|afwegen
+der Einwand, -¨e|de tegenwerping, het bezwaar
+in Frage stellen|in twijfel trekken
+die Gerechtigkeit|de rechtvaardigheid
+die Würde|de waardigheid
+die Vernunft|de rede, het verstand
+vernünftig|verstandig, redelijk
+die Notwendigkeit, -en|de noodzaak
+absichtlich|opzettelijk
+die Herausforderung, -en|de uitdaging
+umgehen mit|omgaan met
+gleichgültig|onverschillig
+die Ungleichheit, -en|de ongelijkheid
+der Maßstab, -¨e|de maatstaf, de schaal
+der Grundsatz, -¨e|het principe, de grondregel
+sich auseinandersetzen mit|zich bezighouden met, zich verdiepen in
+sich befassen mit|zich bezighouden met
+beitragen zu|bijdragen aan
+der Beitrag, -¨e|de bijdrage
+bewältigen|aankunnen, het hoofd bieden aan
+verdeutlichen|verduidelijken
+ermöglichen|mogelijk maken
+auslösen|veroorzaken, teweegbrengen
+beeinträchtigen|aantasten, nadelig beïnvloeden
+sich ergeben aus|voortvloeien uit
+erfordern|vereisen
+gewährleisten|waarborgen, garanderen
+berücksichtigen|rekening houden met
+beurteilen|beoordelen
+einschätzen|inschatten
+unterschätzen|onderschatten
+sich einsetzen für|zich inzetten voor
+bestehen auf|staan op, aandringen op
+sich eignen für|geschikt zijn voor
+gelten als|gelden als, doorgaan voor
+sich verschlechtern|verslechteren
+verringern|verminderen
+abschaffen|afschaffen
+einführen|invoeren
+umsetzen|uitvoeren, omzetten
+anstreben|nastreven
+nachweisen|aantonen
+vorwerfen|verwijten
+der Vorwurf, -¨e|het verwijt
+ausgehen von|uitgaan van
+sich herausstellen|blijken
+vorhanden|aanwezig, beschikbaar
+erheblich|aanzienlijk
+wesentlich|wezenlijk, aanzienlijk
+umfassend|omvattend, uitgebreid
+vielfältig|veelzijdig, gevarieerd
+vorläufig|voorlopig
+umstritten|omstreden
+nachvollziehbar|begrijpelijk, navolgbaar
+gegenseitig|wederzijds
+ehemalig|voormalig
+künftig|toekomstig
+überwiegend|overwegend
+weitgehend|grotendeels
+ausschließlich|uitsluitend
+ständig|voortdurend
+gefährden|in gevaar brengen
+die Bedrohung, -en|de bedreiging
+der Anstieg, -e|de stijging
+der Rückgang, -¨e|de daling, de achteruitgang
+der Anteil, -e|het aandeel
+die Lebenserwartung|de levensverwachting
+die Sucht, -¨e|de verslaving
+der Wähler, -|de kiezer
+die Volksabstimmung, -en|het referendum
+die Einbürgerung, -en|de naturalisatie
+die Abschiebung, -en|de uitzetting
+die Gleichstellung|de gelijkstelling, de gelijke behandeling
+die Ungerechtigkeit, -en|het onrecht
+die Abhängigkeit, -en|de afhankelijkheid
+die Steuererhöhung, -en|de belastingverhoging
+das Darlehen, -|de lening
+die Ersparnisse (Pl.)|de spaargelden
+der Auftrag, -¨e|de opdracht, de bestelling
+der Konzern, -e|het concern
+die Belegschaft, -en|het personeel
+die Wirtschaftsleistung|de economische prestatie
+der Ausbau|de uitbreiding
+sich verschulden|schulden maken
+die Vermutung, -en|het vermoeden
+der Beleg, -e|het bewijsstuk, de bon
+belegen|staven, aantonen
+der Sachverständige, -n|de deskundige
+der Haftbefehl, -e|het arrestatiebevel
+die Wiederverwertung|de recycling
+der Artenschutz|de soortenbescherming
+die Auflage, -n|de oplage, de voorwaarde
+der Verlag, -e|de uitgeverij
+die Veröffentlichung, -en|de publicatie
+die Neuerscheinung, -en|de nieuwe uitgave
+die Verzweiflung|de wanhoop
+verzweifelt|wanhopig
+das Selbstwertgefühl|het gevoel van eigenwaarde
+die Zufriedenheit|de tevredenheid
+die Annäherung, -en|de toenadering, de benadering
+die Entlastung, -en|de verlichting, de ontheffing
+der Einsatz, -¨e|de inzet
+der Zeitraum, -¨e|de periode, het tijdsbestek
+die Absprache, -n|de afspraak, de overeenkomst
+erläutern|toelichten
+die Erläuterung, -en|de toelichting
+anzweifeln|in twijfel trekken
+voraussichtlich|naar verwachting
+bislang|tot nu toe
+schätzungsweise|naar schatting
+die Lebensqualität|de levenskwaliteit

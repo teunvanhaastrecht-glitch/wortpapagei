@@ -1,0 +1,346 @@
+der Ehemann, -¨er|de echtgenoot
+die Ehefrau, -en|de echtgenote
+der Onkel, -|de oom
+die Tante, -n|de tante
+der Cousin, -s|de neef
+die Cousine, -n|de nicht
+die Großeltern|de grootouders
+der Enkel, -|de kleinzoon
+die Enkelin, -nen|de kleindochter
+die Hochzeit, -en|de bruiloft
+heiraten|trouwen
+ledig|ongehuwd, vrijgezel
+verheiratet|getrouwd
+geschieden|gescheiden
+der Nachbar, -n|de buurman, de buur
+die Nachbarin, -nen|de buurvrouw
+der Gast, -¨e|de gast
+die Party, -s|het feest
+das Fest, -e|het feest
+feiern|vieren
+einladen|uitnodigen
+die Einladung, -en|de uitnodiging
+das Geschenk, -e|het cadeau
+schenken|schenken, cadeau geven
+gratulieren|feliciteren
+Herzlichen Glückwunsch!|Gefeliciteerd!
+Viel Glück!|Veel succes!, Veel geluk!
+Gute Besserung!|Beterschap!
+Keine Ahnung.|Geen idee.
+Das macht nichts.|Dat geeft niet.
+Wie bitte?|Pardon?, Wat zegt u?
+Es tut mir leid.|Het spijt me.
+die Zwiebel, -n|de ui
+die Tomate, -n|de tomaat
+die Gurke, -n|de komkommer
+die Karotte, -n|de wortel
+die Erdbeere, -n|de aardbei
+die Birne, -n|de peer
+die Orange, -n|de sinaasappel
+das Hähnchen, -|de kip
+das Rindfleisch|het rundvlees
+das Schweinefleisch|het varkensvlees
+der Schinken, -|de ham
+der Zucker|de suiker
+das Salz|het zout
+der Pfeffer|de peper
+das Öl, -e|de olie
+die Sahne|de room
+der Joghurt, -s|de yoghurt
+die Schokolade, -n|de chocolade
+das Eis|het ijs
+die Speisekarte, -n|de menukaart
+bestellen|bestellen
+probieren|proberen, proeven
+schmecken|smaken
+lecker|lekker
+satt|verzadigd, vol
+süß|zoet
+sauer|zuur
+scharf|pittig, scherp
+frisch|vers, fris
+der Teller, -|het bord
+die Tasse, -n|het kopje
+das Glas, -¨er|het glas
+die Gabel, -n|de vork
+das Messer, -|het mes
+der Löffel, -|de lepel
+die Flasche, -n|de fles
+die Dose, -n|het blikje, de doos
+das Kilo, -s|de kilo
+der Markt, -¨e|de markt
+das Kaufhaus, -¨er|het warenhuis
+die Kasse, -n|de kassa
+das Angebot, -e|de aanbieding, het aanbod
+günstig|voordelig, gunstig
+die Größe, -n|de maat, de grootte
+anprobieren|passen (kleding)
+passen|passen, goed zitten
+die Miete, -n|de huur
+mieten|huren
+vermieten|verhuren
+der Vermieter, -|de verhuurder
+umziehen|verhuizen
+der Umzug, -¨e|de verhuizing
+das Erdgeschoss, -e|de begane grond
+das Stockwerk, -e|de verdieping
+der Aufzug, -¨e|de lift
+die Treppe, -n|de trap
+der Balkon, -e|het balkon
+der Keller, -|de kelder
+die Heizung, -en|de verwarming
+das Sofa, -s|de bank, de sofa
+der Teppich, -e|het tapijt, het vloerkleed
+das Regal, -e|de boekenkast, het rek
+der Spiegel, -|de spiegel
+der Kühlschrank, -¨e|de koelkast
+der Herd, -e|het fornuis
+die Waschmaschine, -n|de wasmachine
+putzen|schoonmaken
+aufräumen|opruimen
+waschen|wassen
+sauber|schoon
+schmutzig|vuil, vies
+hell|licht
+dunkel|donker
+gemütlich|gezellig
+ruhig|rustig
+laut|luid, lawaaierig
+die Sekunde, -n|de seconde
+die Viertelstunde, -n|het kwartier
+halb|half
+der Kalender, -|de kalender
+das Datum, Daten|de datum
+die Ferien|de (school)vakantie
+der Feiertag, -e|de feestdag
+früh|vroeg
+spät|laat
+pünktlich|op tijd, stipt
+vorgestern|eergisteren
+übermorgen|overmorgen
+damals|toen, destijds
+neulich|onlangs
+sofort|meteen, onmiddellijk
+gleich|zo meteen, gelijk
+endlich|eindelijk
+zuerst|eerst
+dann|dan, daarna
+danach|daarna
+vorher|van tevoren, eerder
+seit|sinds
+während|tijdens
+bis|tot
+die Wolke, -n|de wolk
+das Gewitter, -|het onweer
+der Nebel|de mist
+die Temperatur, -en|de temperatuur
+der Grad, -e|de graad
+sonnig|zonnig
+bewölkt|bewolkt
+windig|winderig
+nass|nat
+trocken|droog
+schneien|sneeuwen
+scheinen|schijnen
+das Klima|het klimaat
+die Natur|de natuur
+der Berg, -e|de berg
+das Meer, -e|de zee
+der See, -n|het meer
+der Fluss, -¨e|de rivier
+der Wald, -¨er|het bos
+der Strand, -¨e|het strand
+die Insel, -n|het eiland
+das Dorf, -¨er|het dorp
+die U-Bahn, -en|de metro
+die Straßenbahn, -en|de tram
+das Gleis, -e|het spoor, het perron
+der Bahnsteig, -e|het perron
+die Abfahrt, -en|het vertrek
+die Ankunft, -¨e|de aankomst
+die Verspätung, -en|de vertraging
+umsteigen|overstappen
+einsteigen|instappen
+aussteigen|uitstappen
+verpassen|missen (trein, bus)
+der Reisepass, -¨e|het paspoort
+der Ausweis, -e|het identiteitsbewijs
+die Grenze, -n|de grens
+das Gepäck|de bagage
+die Unterkunft, -¨e|het onderdak, de accommodatie
+das Doppelzimmer, -|de tweepersoonskamer
+das Einzelzimmer, -|de eenpersoonskamer
+reservieren|reserveren
+buchen|boeken
+der Stadtplan, -¨e|de plattegrond
+die Ampel, -n|het stoplicht
+die Kreuzung, -en|het kruispunt
+die Brücke, -n|de brug
+die Kirche, -n|de kerk
+das Rathaus, -¨er|het stadhuis
+das Museum, Museen|het museum
+die Post|het postkantoor, de post
+die Bank, -en|de bank (geld)
+die Apotheke, -n|de apotheek
+das Krankenhaus, -¨er|het ziekenhuis
+die Polizei|de politie
+der Parkplatz, -¨e|de parkeerplaats
+parken|parkeren
+der Weg, -e|de weg
+die Richtung, -en|de richting
+weit|ver
+nah|dichtbij
+in der Nähe|in de buurt
+der Unfall, -¨e|het ongeluk
+die Stelle, -n|de baan, de plek
+die Bewerbung, -en|de sollicitatie
+sich bewerben|solliciteren
+der Lebenslauf, -¨e|het cv
+die Erfahrung, -en|de ervaring
+das Gehalt, -¨er|het salaris
+verdienen|verdienen
+die Besprechung, -en|de vergadering, het overleg
+die Pause, -n|de pauze
+der Feierabend, -e|het einde van de werkdag
+der Mitarbeiter, -|de medewerker
+der Kunde, -n|de klant
+der Computer, -|de computer
+der Drucker, -|de printer
+die E-Mail, -s|de e-mail
+der Brief, -e|de brief
+schicken|sturen
+erklären|uitleggen
+der Unterricht|de les (onderwijs)
+die Prüfung, -en|het examen, de toets
+die Note, -n|het cijfer
+das Zeugnis, -se|het rapport, het getuigschrift
+die Hausaufgabe, -n|het huiswerk
+das Fach, -¨er|het vak
+die Universität, -en|de universiteit
+studieren|studeren
+die Ausbildung, -en|de opleiding
+bestehen|slagen (voor)
+üben|oefenen
+vergessen|vergeten
+sich erinnern|zich herinneren
+der Fehler, -|de fout
+die Sprache, -n|de taal
+das Wörterbuch, -¨er|het woordenboek
+der Rücken, -|de rug
+der Hals, -¨e|de hals, de keel
+die Schulter, -n|de schouder
+das Knie, -|de knie
+der Finger, -|de vinger
+das Haar, -e|het haar
+das Gesicht, -er|het gezicht
+das Herz, -en|het hart
+die Schmerzen|de pijn
+wehtun|pijn doen
+das Fieber|de koorts
+die Erkältung, -en|de verkoudheid
+der Husten|de hoest
+die Tablette, -n|de tablet, de pil
+das Medikament, -e|het medicijn
+das Rezept, -e|het recept
+die Praxis, Praxen|de praktijk
+sich fühlen|zich voelen
+sich ausruhen|uitrusten
+verletzt|gewond
+der Mantel, -¨|de (winter)jas
+der Anzug, -¨e|het pak
+die Bluse, -n|de blouse
+die Mütze, -n|de muts
+der Schal, -s|de sjaal
+der Handschuh, -e|de handschoen
+die Socke, -n|de sok
+der Stiefel, -|de laars
+die Tasche, -n|de tas
+die Brille, -n|de bril
+anziehen|aantrekken
+ausziehen|uittrekken
+bequem|comfortabel, gemakkelijk
+modern|modern
+braun|bruin
+grau|grijs
+bunt|kleurrijk, bont
+das Konzert, -e|het concert
+das Theater, -|het theater
+die Ausstellung, -en|de tentoonstelling
+der Ausflug, -¨e|het uitstapje
+wandern|wandelen, trekken
+fotografieren|fotograferen
+malen|schilderen
+das Instrument, -e|het instrument
+die Gitarre, -n|de gitaar
+die Mannschaft, -en|het team, de ploeg
+gewinnen|winnen
+verlieren|verliezen
+die Zeitung, -en|de krant
+die Zeitschrift, -en|het tijdschrift
+das Internet|het internet
+das Fernsehen|de televisie
+fernsehen|televisiekijken
+sich freuen auf|zich verheugen op
+sich interessieren für|geïnteresseerd zijn in
+das Gefühl, -e|het gevoel
+die Angst, -¨e|de angst
+Angst haben|bang zijn
+die Freude|de vreugde, de blijdschap
+die Liebe|de liefde
+böse|boos, kwaad
+wütend|woedend
+nervös|zenuwachtig
+zufrieden|tevreden
+überrascht|verrast
+enttäuscht|teleurgesteld
+allein|alleen
+fröhlich|vrolijk
+freundlich|vriendelijk
+nett|aardig
+lustig|grappig
+langweilig|saai
+interessant|interessant
+wichtig|belangrijk
+möglich|mogelijk
+fertig|klaar
+genug|genoeg
+fast|bijna
+ganz|helemaal, heel
+besonders|vooral, bijzonder
+wahrscheinlich|waarschijnlijk
+vielleicht|misschien
+leider|helaas
+natürlich|natuurlijk
+zusammen|samen
+deshalb|daarom
+trotzdem|toch, desondanks
+weil|omdat
+dass|dat
+wenn|als, wanneer
+ob|of
+obwohl|hoewel
+denn|want
+sondern|maar (wel)
+entweder … oder|óf … óf
+über|over, boven
+unter|onder
+neben|naast
+zwischen|tussen
+hinter|achter
+vor|voor
+gegenüber|tegenover
+durch|door
+gegen|tegen
+um|om
+jemand|iemand
+niemand|niemand
+etwas|iets
+nichts|niets
+jeder|ieder, elk
+alle|allemaal, alle
+erlauben|toestaan
+dürfen|mogen
+sollen|moeten, zullen
+glauben|geloven, denken
+denken|denken
+hoffen|hopen
