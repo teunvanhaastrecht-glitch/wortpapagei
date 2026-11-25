@@ -947,6 +947,18 @@
   }
   let srs = cleanSrs(load('srs', null));
   let sets = cleanSets(load('sets', null));
+  // Vooraf geladen sets (words.js) één keer toevoegen. Wat je daarna weggooit, komt niet terug.
+  (function seedPresets() {
+    const done = new Set(Array.isArray(load('seeded', null)) ? load('seeded', null) : []);
+    let changed = false;
+    for (const p of cleanSets(window.WortPapageiPresets || [])) {
+      if (done.has(p.id)) continue;
+      done.add(p.id);
+      if (!sets.some(s => s.id === p.id)) { sets.unshift(p); changed = true; }
+    }
+    if (changed) save('sets', sets);
+    save('seeded', [...done]);
+  })();
   const saveSrs = () => save('srs', srs);
   const saveSets = () => save('sets', sets);
 

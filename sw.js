@@ -1,7 +1,7 @@
 /* Offline-cache voor WortPapagei.
    Pagina, scripts en manifest: eerst het netwerk (zo komt een nieuwe versie meteen binnen), offline uit de cache.
    Plaatjes en lettertype: eerst uit de cache. VERSION wordt door tools/stamp_sw.py uit de inhoud van de bestanden berekend. */
-const VERSION = 'wortpapagei-a152e1f872';
+const VERSION = 'wortpapagei-4ad7d08a66';
 const CORE = ['./', 'index.html', 'app.js', 'verbs.js', 'words.js', 'sound.js', 'manifest.webmanifest'];
 const ASSETS = ['assets/fonts/nunito.woff2', 'assets/parrot.webp', 'assets/raven.webp', 'assets/canary.webp', 'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 const NETWORK_TIMEOUT = 3000;
